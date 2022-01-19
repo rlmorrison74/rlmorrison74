@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Ray Morrison 👋
 
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rlmorrison74&show_icons=true&theme=radical)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlmorrison74&theme=blue-green)
 <!--
 **rlmorrison74/rlmorrison74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
