@@ -49,7 +49,7 @@
 
 ## 📈 &nbsp; My GitHub Stats
 
-[![rlmorrison74's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rlmorrison74&theme=blue-green)](https://github.com/rlmorrison74/github-readme-streak-stats)
+[![rlmorrison74's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rlmorrison74&theme=blue-green)](https://github.com/rlmorrison74/github-readme-streak-stats)<br /><br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rlmorrison74&show_icons=true&theme=radical&custom_title=What%20I've%20Done:)<br /><br />
 
