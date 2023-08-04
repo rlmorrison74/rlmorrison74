@@ -15,7 +15,6 @@
 
 
 # Technologies 💾
-
 ## Front End
 
 <p float="left">
