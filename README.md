@@ -14,8 +14,7 @@
 - 🎮 &nbsp; Avid league of legends player
 
 
-# Technologies 💾
-## Front End
+## Front End Technologies 💾
 
 <p float="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="23px" />
