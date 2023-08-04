@@ -9,12 +9,9 @@
 ### My name is Ray, take a moment to get to know me! I'm a:
 
 
-- 💻 &nbsp; Full-Stack Software Engineer
+- 💻 &nbsp; Front End Software Engineer @O.C. Tanner
 - 👨‍👩‍👧‍👦 &nbsp; Father of 5
 - 🎮 &nbsp; Avid league of legends player
-- 🎷 &nbsp; Saxophone Player (I love Jazz)
-- 🎳 &nbsp; Bowler
-- 📍 &nbsp; Resident of Austintown, OH
 
 
 # Technologies 💾
@@ -29,18 +26,6 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="23px" />
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="23px"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="23px" />
-</p>
-
-## Back End
-
-<p float="left">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="23px" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="23px" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="23px" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="23px" />
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" height="23px" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="23px" />
-  
 </p>
 
 ## Deployment / Testing
@@ -58,6 +43,3 @@
 
 [![rlmorrison74's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rlmorrison74&theme=blue-green)](https://github.com/rlmorrison74/github-readme-streak-stats)<br /><br />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rlmorrison74&show_icons=true&theme=radical&custom_title=What%20I've%20Done:)<br /><br />
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlmorrison74&theme=blue-green&custom_title=What%20I've%20Done%20It%20With:)
